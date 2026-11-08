@@ -1,0 +1,13 @@
+interface:
+  display_name: "Distill"
+  short_description: "Find essential structure and simplify with evidence"
+  default_prompt: "Use $distill to find the essential structure of this task and simplify it while preserving what matters."
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

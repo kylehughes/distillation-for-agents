@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "distillation-for-agents",
+  "version": "1.0.0",
+  "description": "Find the essential structure of a task and simplify it while preserving what matters.",
+  "author": {
+    "name": "Kyle Hughes",
+    "email": "kyle@kylehugh.es",
+    "url": "https://kylehugh.es"
+  },
+  "homepage": "https://github.com/kylehughes/distillation-for-agents",
+  "repository": "https://github.com/kylehughes/distillation-for-agents",
+  "license": "MIT",
+  "keywords": [
+    "simplification",
+    "first-principles",
+    "reasoning",
+    "abstraction",
+    "agent-skills"
+  ]
+}

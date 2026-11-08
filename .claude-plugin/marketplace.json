@@ -1,0 +1,19 @@
+{
+  "name": "distillation-for-agents",
+  "owner": {
+    "name": "Kyle Hughes",
+    "email": "kyle@kylehugh.es"
+  },
+  "metadata": {
+    "description": "Find the essential structure of a task and simplify it while preserving what matters.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "distillation-for-agents",
+      "description": "Find the essential structure of a task and simplify it while preserving what matters.",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
